@@ -6,5 +6,5 @@ compile the TypeScript code into the JavaScript code.
 
 2. tsc {typeScript file name} {javascript file name}
 
-if the file name of the TypeScript and JavaScript is same then we should avoid it.
-
+if the file name of the TypeScript and JavaScript is same then we should use only 
+tsc {typeScript file name} for compiling the TypeScript code into the JavaScript code.
