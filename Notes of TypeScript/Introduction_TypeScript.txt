@@ -1,0 +1,7 @@
+
+1. Alternative to the JavaScript ( superset )
+Superset : Included all the Features of the JavaScript and also other features additional features.
+2. Allows us to use strict types
+3. Supports modern features (arrow functions,let , const)
+4. Extra Features ( generics , interfaces ,tuples etc)
+
