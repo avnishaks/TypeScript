@@ -1,0 +1,12 @@
+Array :- 
+
+In typescript  , when we declare the array , if its of the type string , then we only
+pushed the string value , same goes for integers or numbers. If our array is of type 
+mixed with string and number is declared , then we can manipulate and push the string and
+number value.
+
+
+Object :- 
+
+Once we declare the object , the object type then we can manipulate or changed it , we can't add 
+more key value pairs to the object.
