@@ -1,0 +1,1 @@
+In this we going to learn about the basics of the TypeScript in Details.
