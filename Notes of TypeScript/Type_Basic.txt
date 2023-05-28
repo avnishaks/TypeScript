@@ -1,0 +1,15 @@
+In javascript we can change the type of the variable
+
+let st="abc";
+st=20;
+console.log(st)
+
+
+In typescript we can't change the type of the variable
+let st="abc";
+st=20;// Error will come 
+console.log(st)
+
+
+
+https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
