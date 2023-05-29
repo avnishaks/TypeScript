@@ -1,0 +1,12 @@
+Some points releared to BetterWorkFlow_TsConfig
+
+1. Make two folder public and src , public includes the folder of html , csss ,
+ javascript and src contains the typescript files only.
+
+2. Make the changes in the tsConfig file for the rootDir and outDir as "./src" or "./public" , to 
+create tsConfig.json using "tsc -init"
+
+3. To include only src folder use "include"=[].
+
+4. When we create the typescript files in src folder , then automatically javascript file is created
+in the public folder.
