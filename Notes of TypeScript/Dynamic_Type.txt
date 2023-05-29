@@ -1,0 +1,38 @@
+// Dynamic Type 
+
+In the Dynamic Type we just need to declare the value of the variable 
+where if we use type is any , instead of string , number  then we can 
+use typescript as the javascript type where we can assign one variable name 
+with number value , boolean value or string value.
+
+
+1. For the variable
+
+let value:any
+
+value="avish"
+console.log(value)
+
+value=90
+console.log(value)
+
+value=true
+console.log(value)
+
+
+2. For the Array
+
+
+
+let arr:any[]=[]
+arr.push(10)
+arr.push("avnush")
+arr.push(true)
+console.log(arr)
+
+
+3. For the Object
+
+let ninja:{name:any,value:any,islive:any}
+ninja={name:"Avnish",value:35,islive:true}
+console.log(ninja)
